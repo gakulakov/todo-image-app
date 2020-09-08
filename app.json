@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "reactNativeSelfPosts",
+    "name": "Todo Image",
     "slug": "reactNativeSelfPosts",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/TodoIcon.png",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "image": "./assets/SplashTodo.png",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "updates": {
@@ -17,7 +17,14 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.gakulakov.todo-image",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.gakulakov.todo_image",
+      "versionCode": 1,
+      "permissions": ["CAMERA", "WRITE_EXTERNAL_STORAGE"]
     },
     "web": {
       "favicon": "./assets/favicon.png"
