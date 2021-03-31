@@ -5,4 +5,4 @@ If you want to try out the application, then you can download it from the link*:
 *Unfortunately, you can only try the app on Android.
 
 
-![Image alt](https://github.com/gakulakov/todo-image-app/tree/master/assets/Preview/1.png)
+![Image alt](https://github.com/gakulakov/todo-image-app/tree/master/assets/Preview/1.jpg)
