@@ -5,7 +5,7 @@ If you want to try out the application, then you can download it from the link*:
 *Unfortunately, you can only try the app on Android.
 
 
-# Screenshoots:
+# Screenshots:
 
 <img src='./assets/Preview/1.jpg' width=400 >
 <img src='./assets/Preview/2.jpg' width=400 >
